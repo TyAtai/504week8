@@ -8,4 +8,6 @@ To clone this repo, do
 
 `git clone https://github.com/TyAtai/504week8.git`
 
+## To use
 
+Run this program by typing `python main.py`
